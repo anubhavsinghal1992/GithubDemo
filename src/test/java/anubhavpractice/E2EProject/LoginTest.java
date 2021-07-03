@@ -21,6 +21,9 @@ public class LoginTest extends baseClass {
 		
 		driver= invokeBrowser();
 		log.info("Successfully landed on home page.");
+		log.info("Successfully landed on home page1.");
+		log.info("Successfully landed on home page2.");
+		log.info("Successfully landed on home page3.");
 		
 		HomePage homePage= new HomePage(driver);
 		LoginPage loginPage= new LoginPage(driver);
