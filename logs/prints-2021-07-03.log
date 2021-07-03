@@ -1,0 +1,91 @@
+22:08:42.482 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully clicked on Login Button.
+22:08:42.827 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully entered username
+22:08:42.971 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully entered password
+22:08:43.359 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully clicked on Submit button.
+22:20:12.504 [main] INFO  anubhavpractice.E2EProject.LandingPageTest - Driver is initialized and navigated to Home page.
+22:20:12.562 [main] INFO  anubhavpractice.E2EProject.LandingPageTest - Course Header content Matched
+22:20:12.685 [main] INFO  anubhavpractice.E2EProject.LandingPageTest - Presence of Navigation Bar validated.
+22:20:39.021 [main] INFO  anubhavpractice.E2EProject.LoginTest - Driver is initialized and navigated to Home page.
+22:20:57.624 [main] INFO  anubhavpractice.E2EProject.LoginTest - Driver is initialized and navigated to Home page.
+22:20:58.472 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully clicked on Login Button.
+22:20:58.756 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully entered username
+22:20:58.873 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully entered password
+22:20:59.172 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully clicked on Submit button.
+22:26:31.815 [TestNG-test=Login and Home Page validation-1] INFO  anubhavpractice.E2EProject.LandingPageTest - Driver is initialized and navigated to Home page.
+22:26:31.967 [TestNG-test=Login and Home Page validation-1] INFO  anubhavpractice.E2EProject.LandingPageTest - Course Header content Matched
+22:26:32.167 [TestNG-test=Login and Home Page validation-1] INFO  anubhavpractice.E2EProject.LandingPageTest - Presence of Navigation Bar validated.
+22:26:33.579 [TestNG-test=Login and Home Page validation-2] INFO  anubhavpractice.E2EProject.LoginTest - Driver is initialized and navigated to Home page.
+22:26:34.269 [TestNG-test=Login and Home Page validation-2] INFO  anubhavpractice.E2EProject.LoginTest - Successfully clicked on Login Button.
+22:26:34.496 [TestNG-test=Login and Home Page validation-2] INFO  anubhavpractice.E2EProject.LoginTest - Successfully entered username
+22:26:34.638 [TestNG-test=Login and Home Page validation-2] INFO  anubhavpractice.E2EProject.LoginTest - Successfully entered password
+22:26:34.939 [TestNG-test=Login and Home Page validation-2] INFO  anubhavpractice.E2EProject.LoginTest - Successfully clicked on Submit button.
+22:26:45.293 [TestNG-test=Login and Home Page validation-2] INFO  anubhavpractice.E2EProject.LoginTest - Driver is initialized and navigated to Home page.
+22:26:47.197 [TestNG-test=Login and Home Page validation-2] INFO  anubhavpractice.E2EProject.LoginTest - Successfully clicked on Login Button.
+22:26:47.606 [TestNG-test=Login and Home Page validation-2] INFO  anubhavpractice.E2EProject.LoginTest - Successfully entered username
+22:26:47.786 [TestNG-test=Login and Home Page validation-2] INFO  anubhavpractice.E2EProject.LoginTest - Successfully entered password
+22:26:48.078 [TestNG-test=Login and Home Page validation-2] INFO  anubhavpractice.E2EProject.LoginTest - Successfully clicked on Submit button.
+22:27:33.515 [TestNG-tests-1] INFO  anubhavpractice.E2EProject.LandingPageTest - Driver is initialized and navigated to Home page.
+22:27:33.569 [TestNG-tests-1] INFO  anubhavpractice.E2EProject.LandingPageTest - Course Header content Matched
+22:27:33.655 [TestNG-tests-1] INFO  anubhavpractice.E2EProject.LandingPageTest - Presence of Navigation Bar validated.
+22:27:51.095 [TestNG-tests-1] INFO  anubhavpractice.E2EProject.LoginTest - Driver is initialized and navigated to Home page.
+22:27:52.835 [TestNG-tests-1] INFO  anubhavpractice.E2EProject.LoginTest - Successfully clicked on Login Button.
+22:27:53.385 [TestNG-tests-1] INFO  anubhavpractice.E2EProject.LoginTest - Successfully entered username
+22:27:53.617 [TestNG-tests-1] INFO  anubhavpractice.E2EProject.LoginTest - Successfully entered password
+22:27:54.194 [TestNG-tests-1] INFO  anubhavpractice.E2EProject.LoginTest - Successfully clicked on Submit button.
+22:28:08.729 [TestNG-tests-1] INFO  anubhavpractice.E2EProject.LoginTest - Driver is initialized and navigated to Home page.
+22:28:09.306 [TestNG-tests-1] INFO  anubhavpractice.E2EProject.LoginTest - Successfully clicked on Login Button.
+22:28:09.546 [TestNG-tests-1] INFO  anubhavpractice.E2EProject.LoginTest - Successfully entered username
+22:28:09.642 [TestNG-tests-1] INFO  anubhavpractice.E2EProject.LoginTest - Successfully entered password
+22:28:09.855 [TestNG-tests-1] INFO  anubhavpractice.E2EProject.LoginTest - Successfully clicked on Submit button.
+00:37:07.720 [main] INFO  anubhavpractice.E2EProject.LandingPageTest - Driver is initialized and navigated to Home page.
+00:44:45.537 [main] INFO  anubhavpractice.E2EProject.LandingPageTest - Driver is initialized and navigated to Home page.
+00:46:32.087 [main] INFO  anubhavpractice.E2EProject.LandingPageTest - Driver is initialized and navigated to Home page.
+00:46:43.626 [main] INFO  anubhavpractice.E2EProject.LoginTest - Driver is initialized and navigated to Home page.
+00:46:44.730 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully clicked on Login Button.
+00:46:45.051 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully entered username
+00:46:45.165 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully entered password
+00:46:45.438 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully clicked on Submit button.
+00:46:53.786 [main] INFO  anubhavpractice.E2EProject.LoginTest - Driver is initialized and navigated to Home page.
+00:46:55.278 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully clicked on Login Button.
+00:46:55.528 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully entered username
+00:46:55.752 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully entered password
+00:46:56.099 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully clicked on Submit button.
+01:15:03.110 [main] INFO  anubhavpractice.E2EProject.LandingPageTest - Driver is initialized and navigated to Home page.
+01:15:15.612 [main] INFO  anubhavpractice.E2EProject.LoginTest - Driver is initialized and navigated to Home page.
+01:15:17.109 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully clicked on Login Button.
+01:15:17.379 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully entered username
+01:15:17.591 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully entered password
+01:15:17.888 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully clicked on Submit button.
+01:15:31.356 [main] INFO  anubhavpractice.E2EProject.LoginTest - Driver is initialized and navigated to Home page.
+01:15:32.121 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully clicked on Login Button.
+01:15:32.388 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully entered username
+01:15:32.645 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully entered password
+01:15:33.102 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully clicked on Submit button.
+16:59:53.250 [main] INFO  anubhavpractice.E2EProject.LandingPageTest - Driver is initialized and navigated to Home page.
+17:00:05.231 [main] INFO  anubhavpractice.E2EProject.LoginTest - Driver is initialized and navigated to Home page.
+17:00:05.891 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully clicked on Login Button.
+17:00:06.091 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully entered username
+17:00:06.177 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully entered password
+17:00:06.421 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully clicked on Submit button.
+17:00:15.030 [main] INFO  anubhavpractice.E2EProject.LoginTest - Driver is initialized and navigated to Home page.
+17:00:15.656 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully clicked on Login Button.
+17:00:15.840 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully entered username
+17:00:15.923 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully entered password
+17:00:16.085 [main] INFO  anubhavpractice.E2EProject.LoginTest - Successfully clicked on Submit button.
+04:27:45.517 [main] INFO  stepDefinations.stepDefination - Driver is initialized and navigated to Home page.
+04:27:46.860 [main] INFO  stepDefinations.stepDefination - Successfully clicked on Login Button.
+04:27:47.102 [main] INFO  stepDefinations.stepDefination - Successfully entered username
+04:27:47.204 [main] INFO  stepDefinations.stepDefination - Successfully entered password
+04:27:47.355 [main] INFO  stepDefinations.stepDefination - Successfully clicked on Submit button.
+04:27:47.356 [main] INFO  stepDefinations.stepDefination - User successfully logged-in.
+04:27:58.038 [main] INFO  stepDefinations.stepDefination - Driver is initialized and navigated to Home page.
+04:27:59.700 [main] INFO  stepDefinations.stepDefination - Successfully clicked on Login Button.
+04:27:59.878 [main] INFO  stepDefinations.stepDefination - Successfully entered username
+04:27:59.956 [main] INFO  stepDefinations.stepDefination - Successfully entered password
+04:28:00.103 [main] INFO  stepDefinations.stepDefination - Successfully clicked on Submit button.
+04:28:00.104 [main] INFO  stepDefinations.stepDefination - User gets error message for wrong credentials.
+19:17:02.740 [main] INFO  stepDefinations.stepDefination - Driver is initialized and navigated to Home page.
+19:17:15.428 [main] INFO  stepDefinations.stepDefination - Driver is initialized and navigated to Home page.
+19:17:28.837 [main] INFO  stepDefinations.stepDefination - Driver is initialized and navigated to Home page.
+19:22:30.714 [main] INFO  stepDefinations.stepDefination - Driver is initialized and navigated to Home page.
+19:22:45.233 [main] INFO  stepDefinations.stepDefination - Driver is initialized and navigated to Home page.
