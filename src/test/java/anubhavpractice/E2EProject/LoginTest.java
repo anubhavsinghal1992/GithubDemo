@@ -20,6 +20,7 @@ public class LoginTest extends baseClass {
 	public void basePageNavigation(String username, String password) throws IOException {	
 		
 		driver= invokeBrowser();
+		log.info("Successfully landed on home page.");
 		
 		HomePage homePage= new HomePage(driver);
 		LoginPage loginPage= new LoginPage(driver);
