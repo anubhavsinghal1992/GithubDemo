@@ -24,6 +24,10 @@ public class LoginTest extends baseClass {
 		log.info("Successfully landed on home page1.");
 		log.info("Successfully landed on home page2.");
 		log.info("Successfully landed on home page3.");
+		log.info("Successfully landed on home page4.");
+		log.info("Successfully landed on home page5.");
+		log.info("Successfully landed on home page6.");
+		log.info("Successfully landed on home page7.");
 		
 		HomePage homePage= new HomePage(driver);
 		LoginPage loginPage= new LoginPage(driver);
